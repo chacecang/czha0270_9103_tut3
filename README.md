@@ -5,5 +5,5 @@
 
 2. Coding Technique: Generative Art with Perlin Noise
     - Perlin Noise can create smooth curves, figures, and structures that differ in intensity, orientation, and hue, reminiscent of Kandinsky's creations. By manipulating and overlaying noise patterns, one can craft visuals that are both disorderly and balanced. This method can be tailored to mimic the intertwined forms and vibrant colors that define "Composition VII". Hence, Perlin Noise offers an apt coding approach to capture the spirit of the masterpiece.
-    An example implementation: [Link Text](https://editor.p5js.org/BarneyCodes/sketches/2eES4fBEL)
+    - An example implementation: [Link Text](https://editor.p5js.org/BarneyCodes/sketches/2eES4fBEL)
     ![An image of Composition VII](readmeImages/perlinnoise.PNG)
