@@ -1,21 +1,3 @@
-# czha0270_9103_tut3
-
-__i want free__
-_freebird_
-
-## I'm coming out
-
-- item 1
-- item 2
-    - Subitem 2.1
-    - Subitem 2.2
-
-1. First item
-2. Second item
-
-[Link Text](https://www.youtube.com/watch?v=lYiE5lBS13E)
-
-![An image of my passport](readmeImages/Cangyuan%20Zhang%20passport%20page.jpg)
-
-
-
+1. Imaging Technique: Fluid Lines and Distortion
+    Inspired by Wassily Kandinsky's "Composition VII," I am captivated by the fluid lines and distorted shapes that intertwine harmoniously, producing a visual dynamism. For my project, I aim to incorporate this chaotic yet controlled visual language. Given our assignment requirements, Kandinsky's abstract visual cues will allow for a diverse set of animation techniques, each capturing the essence of "Composition VII." Whether animated based on audio frequencies, timed events, random seed algorithms, or user input, the fluid and distorted nature of Kandinsky's work presents an excellent foundation for a dynamic, interactive piece that echoes the masterpiece's energy and vitality.
+    
