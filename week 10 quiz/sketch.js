@@ -1,7 +1,7 @@
 let song, fft, layer, btn, playing = false, fr = 60, a, b;
 
 function preload() {
-  song = loadSound("sample-visualisation.mp3");
+  song = loadSound("asset/visualisation.mp3");
   song.onended(() => {
     playing = false;
     btn.html('Play');
